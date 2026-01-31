@@ -100,7 +100,7 @@ education: Software Engineering @ Universidad Surcolombiana (10th semester)
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ojachi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ojachi&theme=tokyonight-duo" alt="GitHub Streak" />
 </div>
 
 ---
