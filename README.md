@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;QA+Testing+Specialist;AWS+Community+Builder;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer+%7C+C%23+%C2%B7+.NET+%C2%B7+React;QA+%26+Test+Automation;AWS+Community+Builder" alt="Typing SVG" />
 </h3>
 
 ---
@@ -16,13 +16,13 @@
 
 #### 🇪🇸 Español
 
-Soy **Oscar Andrade**, un apasionado Ingeniero de Software en formación de **Bogotá, Colombia**. Actualmente trabajo como **QA Tester** en Inmero y soy cofundador de la **comunidad AWS en Neiva**, la primera del sur de Colombia.
+Soy **Oscar Andrade**, **Ingeniero de Software Full-Stack** de **Bogotá, Colombia**. Actualmente trabajo como **QA Tester** en Inmero y soy cofundador de la **comunidad AWS en Neiva**, la primera del sur de Colombia.
 
 Me especializo en:
-- 🚀 Desarrollo Full Stack (React, Django, Spring Boot)
-- 🧪 Quality Assurance y Testing
-- ☁️ Soluciones Cloud con AWS
-- 🤖 IoT y automatización
+- 🚀 Desarrollo Full Stack (C#, ASP.NET Core, React, TypeScript)
+- 🧪 Quality Assurance y automatización de pruebas
+- ☁️ Soluciones cloud con AWS y despliegues CI/CD
+- 🤖 Automatización e IoT
 
 Creo en el código limpio, las buenas prácticas y el aprendizaje continuo. Siempre buscando nuevos desafíos y oportunidades para crecer profesionalmente.
 
@@ -31,13 +31,13 @@ Creo en el código limpio, las buenas prácticas y el aprendizaje continuo. Siem
 
 #### 🇺🇸 English
 
-I'm **Oscar Andrade**, a passionate Software Engineering student from **Bogotá, Colombia**. Currently working as a **QA Tester** at Inmero and co-founder of the **AWS community in Neiva**, the first in southern Colombia.
+I'm **Oscar Andrade**, a **Full-Stack Software Engineer** from **Bogotá, Colombia**. Currently working as a **QA Tester** at Inmero and co-founder of the **AWS community in Neiva**, the first in southern Colombia.
 
 I specialize in:
-- 🚀 Full Stack Development (React, Django, Spring Boot)
-- 🧪 Quality Assurance & Testing
-- ☁️ AWS Cloud Solutions
-- 🤖 IoT & Automation
+- 🚀 Full Stack Development (C#, ASP.NET Core, React, TypeScript)
+- 🧪 Quality Assurance & Test Automation
+- ☁️ AWS Cloud Solutions & CI/CD pipelines
+- 🤖 Automation & IoT
 
 I believe in clean code, best practices, and continuous learning. Always looking for new challenges and opportunities for professional growth.
 
@@ -51,10 +51,16 @@ I believe in clean code, best practices, and continuous learning. Always looking
 
 ```yaml
 position: QA Tester @ Inmero
-location: Colombia 🇨🇴
-focus: [Functional Testing, Regression Testing, Test Automation, Security Testing]
-previous_role: Full Stack Developer @ Inmero (2024-2025)
-education: Software Engineering @ Universidad Surcolombiana (10th semester)
+location: Bogotá, Colombia 🇨🇴
+focus: [Functional Testing, Regression Testing, Test Automation, API Testing]
+previous_roles:
+  - Full Stack Developer @ Layer7.mx (remote, part-time) — 2026
+  - Full Stack Developer @ Inmero (2024-2025)
+education: Software Engineer — Universidad Surcolombiana (Graduated Jul 2026) 🎓
+certifications:
+  - AWS Certified AI Practitioner — exam Sep 30, 2026
+  - Full Stack Empresarial (Spring Boot & Angular) — Dev Senior Code
+  - Claude Code in Action
 ```
 
 ---
@@ -64,6 +70,8 @@ education: Software Engineering @ Universidad Surcolombiana (10th semester)
 <div align="center">
 
 #### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -71,24 +79,61 @@ education: Software Engineering @ Universidad Surcolombiana (10th semester)
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Backend
+#### Backend & APIs
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+#### Auth & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 #### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+#### Testing & QA
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Test Automation](https://img.shields.io/badge/Test_Automation-2E9EF7?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+#### AI & Tooling
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
 </div>
+
+---
+
+### 🎓 Certifications
+
+| Certification | Issuer | Status |
+| --- | --- | --- |
+| **AWS Certified AI Practitioner** | Amazon Web Services | 📅 Exam: Sep 30, 2026 |
+| **Full Stack Empresarial** (Spring Boot & Angular) | Dev Senior Code | ✅ Completed |
+| **Claude Code in Action** | Anthropic | ✅ Completed |
+
+---
+
+### 🗣️ Languages
+
+| Language | Level | Training |
+| --- | --- | --- |
+| 🇪🇸 Español | Nativo | — |
+| 🇺🇸 English | B2 (Upper-Intermediate) | KOE (2018–2019) · Lingui Academy (2023–2025) |
 
 ---
 
@@ -108,6 +153,22 @@ education: Software Engineering @ Universidad Surcolombiana (10th semester)
 ### 🚀 Featured Projects
 
 <details>
+<summary><b>📦 Inventory Management System (Inmero)</b></summary>
+<br>
+
+**Description:** Full-stack inventory management platform, from REST API design to automated deployment.
+
+**Features:**
+- 🔗 REST APIs built with ASP.NET Core, documented with Swagger/OpenAPI
+- 🔐 JWT authentication and authorization, including login and token refresh flows
+- ⚛️ React + TypeScript SPA consuming the .NET API
+- ⚙️ CI/CD pipelines with GitHub Actions deploying backend and frontend to OVH
+
+**Tech Stack:** `C#` `ASP.NET Core` `React` `TypeScript` `JWT` `Swagger` `GitHub Actions` `OVH`
+
+</details>
+
+<details>
 <summary><b>💰 Payment & Billing Management System (Freelance)</b></summary>
 <br>
 
@@ -116,10 +177,11 @@ education: Software Engineering @ Universidad Surcolombiana (10th semester)
 **Features:**
 - 🔐 Role-based access control
 - 📊 Portfolio management and tracking
-- 🔍 Advanced queries and reporting
+- 🔍 Advanced queries and audit traceability
 - 📱 Responsive web interface
+- 🚀 Deployed on Railway with CI/CD and full test coverage
 
-**Tech Stack:** `React` `Django` `PostgreSQL` `Docker` `Railway`
+**Tech Stack:** `React` `Django` `PostgreSQL` `Docker` `Railway` `pytest`
 
 </details>
 
@@ -143,15 +205,15 @@ education: Software Engineering @ Universidad Surcolombiana (10th semester)
 <summary><b>🧪 Coagronet - Inventory Management System (QA Project)</b></summary>
 <br>
 
-**Description:** Quality assurance for inventory management system.
+**Description:** Quality assurance for an inventory management system.
 
 **Responsibilities:**
-- ✅ Functional and regression testing
+- ✅ Functional, regression, integration and end-to-end testing
 - 🔒 Security testing
-- 🤖 Automated testing in Docker environments
-- 💾 Database validation and integrity checks
+- 🤖 Test automation scripts in Docker environments with Python and JS frameworks
+- 💾 API and database validation (PostgreSQL), including JWT auth flows
 
-**Tech Stack:** `QA Testing` `Docker` `Database Testing`
+**Tech Stack:** `QA Testing` `Docker` `PostgreSQL` `Test Automation`
 
 </details>
 
@@ -206,16 +268,19 @@ education: Software Engineering @ Universidad Surcolombiana (10th semester)
 
 ```javascript
 const oscar = {
-  code: ["JavaScript", "Python", "Java", "PHP"],
+  role: "Full-Stack Software Engineer",
+  code: ["C#", "TypeScript", "JavaScript", "Python", "Java", "PHP"],
   technologies: {
-    frontEnd: ["React", "HTML", "CSS"],
-    backEnd: ["Django", "FastAPI", "Spring Boot"],
+    frontEnd: ["React", "Angular", "HTML", "CSS"],
+    backEnd: ["ASP.NET Core", ".NET", "Laravel", "Spring Boot", "Django", "FastAPI"],
     databases: ["PostgreSQL", "MongoDB"],
-    devOps: ["Docker", "AWS", "Git"],
-    testing: ["Functional Testing", "Regression", "Automation", "Security"]
+    auth: ["JWT", "Role-based access control"],
+    apis: ["REST", "Swagger/OpenAPI"],
+    devOps: ["Docker", "GitHub Actions", "CI/CD", "AWS", "OVH", "Railway", "Linux", "Git"],
+    testing: ["Functional Testing", "Regression", "Automation", "E2E", "Security"]
   },
-  architecture: ["MVC", "Microservices", "RESTful APIs"],
-  currentFocus: "Building scalable and secure applications",
+  architecture: ["MVC", "Layered Architecture", "Microservices", "RESTful APIs"],
+  currentFocus: "Building scalable, secure and well-tested full-stack applications",
   funFact: "I helped start the first AWS community in southern Colombia!"
 };
 ```
@@ -229,25 +294,26 @@ gantt
     title Career Journey
     dateFormat  YYYY-MM
     section Education
-    Software Engineering           :2021-02, 2026-04
+    Software Engineering (B.Sc.)     :2021-02, 2026-07
     section Work
-    Technical Support Intern       :2020-06, 2020-11
-    Full Stack Developer @ Inmero  :2024-08, 2025-07
-    QA Tester @ Inmero            :2025-09, 2026-01
+    Technical Support Intern         :2020-06, 2020-11
+    Full Stack Developer @ Inmero    :2024-08, 2025-07
+    QA Tester @ Inmero              :2025-09, 2026-09
+    Full Stack Developer @ Layer7.mx :2026-04, 2026-08
     section Community
-    AWS Community Co-founder       :2024-11, 2026-01
+    AWS Community Co-founder         :2024-11, 2026-09
 ```
 
 ---
 
 ### 🎯 Current Goals for 2026
 
-- ✅ Complete Software Engineering degree
-- 🚀 Expand AWS community in Colombia
-- 📚 Get AWS certifications
-- 💻 Contribute to open-source projects
-- 🌐 Build a personal tech blog
-- 🤝 Mentor junior developers
+- ✅ **Graduated** as a Software Engineer (Jul 2026)
+- 🎯 **Pass the AWS Certified AI Practitioner** exam (Sep 30, 2026)
+- 🚀 **Deepen the .NET / ASP.NET Core** full-stack specialization
+- ☁️ **Expand the AWS community** across Colombia
+- 💻 **Contribute to open-source** projects
+- 🤝 **Mentor junior developers**
 
 ---
 
